@@ -1,0 +1,27 @@
+.total{
+    width:800px;
+}
+
+.high{
+    background:red;
+    width:100%;
+    height: 100px;
+}
+.leftside{
+    background:blue;
+    width:30%;
+    height:300px;
+    display:inline-block;
+    vertical-align: top;
+}
+.rightside{
+    background:green;
+    width:70%;
+    height:300px;
+    display:inline-block;
+}
+.under{
+    background:grey;
+    width:100%;
+    height:100px;
+}
